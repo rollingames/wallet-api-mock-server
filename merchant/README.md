@@ -52,7 +52,7 @@ Rollin.Games Merchant Service(CMS) is a comprehensive cryptocurrency payment ser
 - Please refer to the code snippet on the github project to know how to calculate the checksum.
 	- [Go](https://github.com/rollingames/wallet-api-mock-server/blob/main/api/apicaller.go#L40)
 	- [Javascript](https://github.com/rollingames/wallet-api-mock-server-javascript/blob/main/helper/apicaller.js#L58)
-  - [JAVA](https://github.com/rollingames/wallet-api-mock-server-java/blob/master/src/main/java/com/rollingames/sofa/mock/Api.java#L71)
+  	- [JAVA](https://github.com/rollingames/wallet-api-mock-server-java/blob/master/src/main/java/com/rollingames/sofa/mock/Api.java#L71)
 	- [PHP](https://github.com/rollingames/wallet-api-mock-server-php/blob/master/helper/apicaller.php#L26)
 
 
@@ -69,7 +69,7 @@ Rollin.Games Merchant Service(CMS) is a comprehensive cryptocurrency payment ser
 - Please refer to the code snippet on the github project to know how to validate the callback payload.
 	- [Go](https://github.com/rollingames/wallet-api-mock-server/blob/main/controllers/MerchantController.go#L248)
 	- [Javascript](https://github.com/rollingames/wallet-api-mock-server-javascript/blob/main/routes/merchant.js#L163)
-  - [JAVA](https://github.com/rollingames/wallet-api-mock-server-java/blob/master/src/main/java/com/rollingames/sofa/mock/MerchantController.java#L165)
+ 	- [JAVA](https://github.com/rollingames/wallet-api-mock-server-java/blob/master/src/main/java/com/rollingames/sofa/mock/MerchantController.java#L165)
 	- [PHP](https://github.com/rollingames/wallet-api-mock-server-php/blob/master/index.php#L418)
 
 # REST API
